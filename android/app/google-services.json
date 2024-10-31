@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "993418659443",
+    "project_id": "latihan-22312080",
+    "storage_bucket": "latihan-22312080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993418659443:android:0199b8902ffda11c504c06",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCaDe5YlhKfE3Gxrobjp4thH0PrzMK2Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993418659443:android:37c1092ce12af312504c06",
+        "android_client_info": {
+          "package_name": "com.rif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCaDe5YlhKfE3Gxrobjp4thH0PrzMK2Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993418659443:android:67bc723fc2087529504c06",
+        "android_client_info": {
+          "package_name": "com.rifki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCaDe5YlhKfE3Gxrobjp4thH0PrzMK2Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
